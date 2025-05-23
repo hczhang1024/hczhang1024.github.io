@@ -17,42 +17,53 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a third year Ph.D. Candidate in [Department of Statistics](https://science.psu.edu/stat), [The Pennsylvania State University](https://science.psu.edu/stat).  My research focuses on Reinforcement Learning and Federated Learning, bridging theoretical rigor with practical applications. You can find my [CV](../assets/CV_Haochen_Zhang.pdf) here.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.github.io/index.html) from [Department of Statistics](https://science.psu.edu/stat), [The Pennsylvania State University](https://science.psu.edu/stat).
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.04*: &nbsp; A paper accepted by ICML 2025.
+- *2025.04*: &nbsp; Attended ICLR 2025.
+- *2024.11*: &nbsp; Two papers accepted by ICLR 2025.
+  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. **Gap-Dependent Bounds for Federated Q-Learning.**  
+   Haochen Zhang, Zhong Zheng, and Lingzhou Xue (2025).  
+   _The Forty-second International Conference on Machine Learning (ICML)_.  
+   Available at [arXiv](https://arxiv.org/pdf/2502.02859).
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+2. **Gap-Dependent Bounds for Q-Learning using Reference-Advantage Decomposition.**  
+   Zhong Zheng, Haochen Zhang (co-first author), and Lingzhou Xue (2025).  
+   _The Thirteenth International Conference on Learning Representations (ICLR)_.  
+   (Spotlight, 3.26% acceptance rate)  
+   Available at [Openreview](https://openreview.net/pdf?id=6tyPSkshtF) and [arXiv](https://arxiv.org/pdf/2410.07574).
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+3. **Federated Q-Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost.**  
+   Zhong Zheng, Haochen Zhang (co-first author), and Lingzhou Xue (2025).  
+   _The Thirteenth International Conference on Learning Representations (ICLR)_.  
+   Available at [Openreview](https://openreview.net/pdf?id=FoUpv84hMw) and [arXiv](https://arxiv.org/pdf/2405.18795).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Gold Medal, 2018 Chinese Mathematical Olympiad (CMO)
+- Second Prize, 2020 National Undergraduate Mathematics Competition of China (Class A)
+- Second Prize, 2021 National Undergraduate Mathematics Competition of China (Class A) 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Ph.D. in Statistics**  
+The Pennsylvania State University, 2023–Present  
+Advisor: Dr. Lingzhou Xue  
 
+**B.Sc. in Statistics**  
+Peking University, 2019–2023  
+
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
