@@ -30,7 +30,7 @@ I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.g
 
 # 🔥 News
 - *2025.05*: &nbsp; A paper are accepted by ICML 2025.
-- *2025.04*: &nbsp; I Attended ICLR 2025 in Singapore.
+- *2025.04*: &nbsp; I attended ICLR 2025 in Singapore.
 - *2024.11*: &nbsp; Two papers are accepted by ICLR 2025.
   
 # 📝 Publications 
