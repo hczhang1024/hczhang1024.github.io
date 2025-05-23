@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third year Ph.D. Candidate in [Department of Statistics](https://science.psu.edu/stat), [The Pennsylvania State University](https://science.psu.edu/stat).  My research focuses on Reinforcement Learning and Federated Learning, bridging theoretical rigor with practical applications. You can find my [CV](../assets/CV_Haochen_Zhang.pdf) here.
+I am a third year Ph.D. Candidate in [Department of Statistics](https://science.psu.edu/stat), [The Pennsylvania State University](https://science.psu.edu/stat).  My research lies at the intersection of **Reinforcement Learning (RL)** and **Federated Learning (FL)**, with a dual focus on:  
+1. **Theoretical Foundations**:  Designing provably efficient RL/FRL algorithms to achieve optimal learning efficiency and cost efficiency 
 
-I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.github.io/index.html) from [Department of Statistics](https://science.psu.edu/stat), [The Pennsylvania State University](https://science.psu.edu/stat).
+2. **Practical Applications**:  Implementing algorithms for real-world scenarios such as biomedical and healthcare.
+
+You can find my [CV](../assets/CV_Haochen_Zhang.pdf) here.
+
+I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.github.io/index.html) from Department of Statistics, The Pennsylvania State University.
 
 
 
