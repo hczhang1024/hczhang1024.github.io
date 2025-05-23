@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a third year Ph.D. Candidate in [Department of Statistics](https://science.psu.edu/stat), [The Pennsylvania State University](https://science.psu.edu/stat).  My research lies at the intersection of **Reinforcement Learning (RL)** and **Federated Learning (FL)**, with a dual focus on:  
-1. **Theoretical Foundations**:  Designing provably efficient RL/FRL algorithms to achieve optimal learning efficiency and cost efficiency 
+1. **Theoretical Foundations**:  Designing provably efficient RL/FRL algorithms to achieve optimal learning accuracy while improving computational and communication efficiency. 
 
-2. **Practical Applications**:  Implementing algorithms for real-world scenarios such as biomedical and healthcare.
+2. **Practical Applications**:  Designing adaptable models that bridge algorithmic innovation with real-world biomedical and healthcare challenges.
 
 You can find my [CV](../assets/CV_Haochen_Zhang.pdf) here.
 
