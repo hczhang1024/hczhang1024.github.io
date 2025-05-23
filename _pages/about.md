@@ -36,18 +36,18 @@ I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.g
 # 📝 Publications 
 
 1. **Gap-Dependent Bounds for Federated Q-Learning.**  
-   Haochen Zhang, Zhong Zheng, and Lingzhou Xue (2025).  
+   **Haochen Zhang**, Zhong Zheng, and Lingzhou Xue (2025).  
    _The Forty-second International Conference on Machine Learning (ICML)_.  
    Available at [arXiv](https://arxiv.org/pdf/2502.02859).
 
 2. **Gap-Dependent Bounds for Q-Learning using Reference-Advantage Decomposition.**  
-   Zhong Zheng, Haochen Zhang (co-first author), and Lingzhou Xue (2025).  
+   Zhong Zheng, **Haochen Zhang** (co-first author), and Lingzhou Xue (2025).  
    _The Thirteenth International Conference on Learning Representations (ICLR)_.  
    (Spotlight, 3.26% acceptance rate)  
    Available at [Openreview](https://openreview.net/pdf?id=6tyPSkshtF) and [arXiv](https://arxiv.org/pdf/2410.07574).
 
 3. **Federated Q-Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost.**  
-   Zhong Zheng, Haochen Zhang (co-first author), and Lingzhou Xue (2025).  
+   Zhong Zheng, **Haochen Zhang** (co-first author), and Lingzhou Xue (2025).  
    _The Thirteenth International Conference on Learning Representations (ICLR)_.  
    Available at [Openreview](https://openreview.net/pdf?id=FoUpv84hMw) and [arXiv](https://arxiv.org/pdf/2405.18795).
 
