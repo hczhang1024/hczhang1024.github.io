@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haochen Zhang"
-description              : "Personal Website"
+description              : "Ph.D. Candidate"
 repository               : "hczhang1024/hczhang1024.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haochen Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Pennsylvania State College"
+  bio              : "The Pennsylvania State University"
   location         : "State College, USA"
   employer         :
   pubmed           : 
