@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a third year Ph.D. Candidate in [Department of Statistics](https://science.psu.edu/stat), [The Pennsylvania State University](https://science.psu.edu/stat).  My research lies at the intersection of **Reinforcement Learning (RL)** and **Federated Learning (FL)**, with a dual focus on:  
-1. **Theoretical Foundations**:  Designing provably efficient RL/FRL algorithms to achieve optimal learning accuracy while improving computational and communication efficiency. 
+1. **Theoretical Foundations**:   Designing provable and computationally efficient algorithms for single-agent and federated RL with applications to healthcare and autonomous driving.
 
-2. **Practical Applications**:  Designing adaptable models that bridge algorithmic innovation with real-world biomedical and healthcare challenges.
+2. **Practical Applications**:  Developing models for complex natural systems, including EEG-based neural decoding for biomedical applications and AI-driven heat-alert systems for climate resilience.
 
 You can find my [CV](../assets/CV_Haochen_Zhang.pdf) here.
 
@@ -29,25 +29,32 @@ I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.g
 
 
 # 🔥 News
+- *2025.10*: &nbsp; A paper is accepted by Neurips 2025.
 - *2025.05*: &nbsp; A paper is accepted by ICML 2025.
 - *2025.04*: &nbsp; I attended ICLR 2025 in Singapore.
 - *2024.11*: &nbsp; Two papers are accepted by ICLR 2025.
   
 # 📝 Publications 
+(* denotes euqal contribution)
+1. **Regret-Optimal Q-Learning with Low Cost for Single-Agent and Federated Reinforcement Learning.**  
+**Haochen Zhang**\*, Zhong Zheng\*, and Lingzhou Xue. (2025)  
+*The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS).*  
+Available at [OpenReview](https://openreview.net/pdf?id=fNOCsycDG4) and [arXiv](https://arxiv.org/pdf/2506.04626v1).
 
-1. **Gap-Dependent Bounds for Federated Q-Learning.**  
-   **Haochen Zhang**, Zhong Zheng, and Lingzhou Xue (2025).  
+
+2. **Gap-Dependent Bounds for Federated Q-Learning.**  
+   **Haochen Zhang**\*, Zhong Zheng\*, and Lingzhou Xue (2025).  
    _The Forty-second International Conference on Machine Learning (ICML)_.  
-   Available at [arXiv](https://arxiv.org/pdf/2502.02859).
+   Available at [OpenReview](https://openreview.net/pdf?id=0n2nXmOxZS) and [arXiv](https://arxiv.org/pdf/2502.02859).
 
-2. **Gap-Dependent Bounds for Q-Learning using Reference-Advantage Decomposition.**  
-   Zhong Zheng, **Haochen Zhang** (co-first author), and Lingzhou Xue (2025).  
+3. **Gap-Dependent Bounds for Q-Learning using Reference-Advantage Decomposition.**  
+   Zhong Zheng\*, **Haochen Zhang**\*, and Lingzhou Xue (2025).  
    _The Thirteenth International Conference on Learning Representations (ICLR)_.  
    (Spotlight, 3.26% acceptance rate)  
    Available at [Openreview](https://openreview.net/pdf?id=6tyPSkshtF) and [arXiv](https://arxiv.org/pdf/2410.07574).
 
-3. **Federated Q-Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost.**  
-   Zhong Zheng, **Haochen Zhang** (co-first author), and Lingzhou Xue (2025).  
+4. **Federated Q-Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost.**  
+   Zhong Zheng\*, **Haochen Zhang**\*, and Lingzhou Xue (2025).  
    _The Thirteenth International Conference on Learning Representations (ICLR)_.  
    Available at [Openreview](https://openreview.net/pdf?id=FoUpv84hMw) and [arXiv](https://arxiv.org/pdf/2405.18795).
 
@@ -60,6 +67,11 @@ I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.g
 **Ph.D. in Statistics**  
 The Pennsylvania State University, 2023–Present  
 Advisor: Dr. Lingzhou Xue  
+
+**M.Sc. in Statistics**  
+The Pennsylvania State University, 2023–2025  
+Advisor: Dr. Lingzhou Xue  
+Thesis: *Gap-Dependent Regret for Federated Q-Learning* 
 
 **B.Sc. in Statistics**  
 Peking University, 2019–2023  
