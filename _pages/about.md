@@ -29,6 +29,7 @@ I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.g
 
 
 # 🔥 News
+- *2026.1*: &nbsp; A paper is accepted by ICLR 2026.
 - *2025.10*: &nbsp; A paper is accepted by Neurips 2025.
 - *2025.05*: &nbsp; A paper is accepted by ICML 2025.
 - *2025.04*: &nbsp; I attended ICLR 2025 in Singapore.
@@ -36,24 +37,29 @@ I am very furtunate to be advised by [Prof. Lingzhou Xue](https://lingzhou-xue.g
   
 # 📝 Publications 
 (* denotes euqal contribution)
-1. **Regret-Optimal Q-Learning with Low Cost for Single-Agent and Federated Reinforcement Learning.**  
+1. **Q-Learning with Fine-Grained Gap-Dependent Regret.**  
+**Haochen Zhang**, Zhong Zheng, and Lingzhou Xue. (2026)  
+*The Fourteenth International Conference on Learning Representations (ICLR)*  
+Available at [OpenReview](https://openreview.net/pdf?id=fE0RJto3Na) and [arXiv](https://arxiv.org/pdf/2510.06647).
+
+2. **Regret-Optimal Q-Learning with Low Cost for Single-Agent and Federated Reinforcement Learning.**  
 **Haochen Zhang**\*, Zhong Zheng\*, and Lingzhou Xue. (2025)  
 *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS).*  
 Available at [OpenReview](https://openreview.net/pdf?id=fNOCsycDG4) and [arXiv](https://arxiv.org/pdf/2506.04626v1).
 
 
-2. **Gap-Dependent Bounds for Federated Q-Learning.**  
+3. **Gap-Dependent Bounds for Federated Q-Learning.**  
    **Haochen Zhang**\*, Zhong Zheng\*, and Lingzhou Xue (2025).  
    _The Forty-second International Conference on Machine Learning (ICML)_.  
    Available at [OpenReview](https://openreview.net/pdf?id=0n2nXmOxZS) and [arXiv](https://arxiv.org/pdf/2502.02859).
 
-3. **Gap-Dependent Bounds for Q-Learning using Reference-Advantage Decomposition.**  
+4. **Gap-Dependent Bounds for Q-Learning using Reference-Advantage Decomposition.**  
    Zhong Zheng\*, **Haochen Zhang**\*, and Lingzhou Xue (2025).  
    _The Thirteenth International Conference on Learning Representations (ICLR)_.  
    (Spotlight, 3.26% acceptance rate)  
    Available at [Openreview](https://openreview.net/pdf?id=6tyPSkshtF) and [arXiv](https://arxiv.org/pdf/2410.07574).
 
-4. **Federated Q-Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost.**  
+5. **Federated Q-Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost.**  
    Zhong Zheng\*, **Haochen Zhang**\*, and Lingzhou Xue (2025).  
    _The Thirteenth International Conference on Learning Representations (ICLR)_.  
    Available at [Openreview](https://openreview.net/pdf?id=FoUpv84hMw) and [arXiv](https://arxiv.org/pdf/2405.18795).
