@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a third year Ph.D. Candidate in [Department of Statistics](https://science.psu.edu/stat), [The Pennsylvania State University](https://science.psu.edu/stat).  My research lies at the intersection of **Reinforcement Learning (RL)** and **Federated Learning (FL)**, with a dual focus on:  
-1. **Theoretical Foundations**:   Designing provable and computationally efficient algorithms for single-agent and federated RL with applications to healthcare and autonomous driving.
+1. **Reinforcement Learning**:   Designing provable and computationally efficient algorithms for single-agent and federated RL with applications to healthcare and autonomous driving.
 
 2. **LLM Post-training**: Developing principled and practical approaches to RLHF, from establishing the theoretical guarantees of KL-regularized RL to designing efficient online and federated RLPF systems.
 
